@@ -4,6 +4,8 @@ A powerful AI-driven color management addon for Blender that provides profession
 
 ![Screenshot 2025-03-25 181203](https://github.com/user-attachments/assets/4fe4eaee-c8e0-4bac-aff3-9abe4a398b48)
 
+https://youtu.be/Heb5o6d4EbI
+
 
 ## Features
 
