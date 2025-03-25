@@ -2,6 +2,9 @@
 
 A powerful AI-driven color management addon for Blender that provides professional-grade color control and optimization for various content types.
 
+![Screenshot 2025-03-25 181203](https://github.com/user-attachments/assets/4fe4eaee-c8e0-4bac-aff3-9abe4a398b48)
+
+
 ## Features
 
 - AI-powered color analysis and optimization
